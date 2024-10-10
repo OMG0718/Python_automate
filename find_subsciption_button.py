@@ -31,3 +31,4 @@ with open('your_csv_file.csv','r', encoding="utf8") as csv_file:
         time.sleep(3)    #in seconds
 
     driver.quit()
+    print("finished")
