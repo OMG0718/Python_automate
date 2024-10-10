@@ -29,3 +29,5 @@ with open('your_csv_file.csv','r', encoding="utf8") as csv_file:
         subscribe.click()
 
         time.sleep(3)    #in seconds
+
+    driver.quit()
