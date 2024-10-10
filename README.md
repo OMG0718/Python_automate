@@ -3,7 +3,7 @@ Code of python to automate subscribe to youtube channel after you back up the .c
 
 # Module needed
 i)selenium <br>
-ii)csv   ### i forgot this module is build in or not...
+ii)csv   $nbsp$nbsp ### i forgot this module is build in or not...
 
 # Attention !!!
 This code only work on chrome. You need to install any chrome app and chrome driver (But makesure their version are the same) <br>
